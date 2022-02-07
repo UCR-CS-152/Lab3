@@ -33,6 +33,6 @@ Read the documentation of Lab2 and your tasks in [home page for lab3](https://ww
 ## Submission 
 Due date: Feb 20, 2022
 
-This lab section has 20 additional points for your phase3-part1 project (100 points in total). If you have submitted Lab3 and lose within 20 points in part1, you can still get full credit. If you get over 100 points in part1 project, exceeding part will be automatically voided.
+This lab section has 20 additional points for your phase3-part1 project (100 points in total). If you have submitted Lab3 and lost within 20 points in part1, you can still get full credit. If you get over 100 points in part1 project, exceeding part will be automatically voided.
 
 Submission is the same as phase3: you just need to push your code to Github before the deadline. During the demo of phase3 part1, please send your Github link to your TA to indicate you have finished Lab3.
