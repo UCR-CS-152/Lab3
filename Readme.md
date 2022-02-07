@@ -28,7 +28,7 @@ Use 'git' to clone the project template:
 
 ## Check Your Tasks for Lab 3
 
-Read the documentation of Lab2 and your tasks in [home page for lab3](https://www.cs.ucr.edu/~dtan004/prac3/lab03_codegen.html). 
+Read the documentation of Lab3 and your tasks in [home page for lab3](https://www.cs.ucr.edu/~dtan004/prac3/lab03_codegen.html). 
 
 ## Submission 
 Due date: Feb 20, 2022
